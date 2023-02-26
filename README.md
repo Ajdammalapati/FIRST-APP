@@ -1,2 +1,3 @@
 # FIRST-APP
-im ajay 
+im ajay
+first push to this from this dir  
